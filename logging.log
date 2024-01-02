@@ -1,0 +1,98 @@
+[2023-12-28 11:20:37,054] - [INFO] - [/ke/v1/mrake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['kepala desa cibodas dindin sukaya', 'kolam renang vila bellevue', 'kabupaten bandung barat', 'balita kakak beradik', 'orang tuanya menganggap']}
+[2023-12-28 11:20:42,792] - [INFO] - [/ke/v1/mrake/config] - min_chars: 20, max_words: 40, min_freq: 1, language_code: id, lang_detect_threshold: 10, max_words_unknown_lang: 3, generated_stopwords_percentile: 10, generated_stopwords_max_len: 3, generated_stopwords_min_freq: 1
+[2023-12-28 11:20:47,445] - [INFO] - [/ke/v1/mrake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['kepala desa cibodas dindin sukaya', 'kolam renang vila bellevue', 'kabupaten bandung barat', 'balita kakak beradik', 'orang tuanya menganggap']}
+[2023-12-28 11:21:22,240] - [ERROR] - [/ke/v1/yake/configsd] - Error: 404
+[2023-12-28 11:21:27,895] - [INFO] - [/ke/v1/yake/config] - language: id, max_ngram_size: 5, deduplication_thresold: 0.9, windowSize: 1, numOfKeywords: 20
+[2023-12-28 11:21:49,325] - [INFO] - [/ke/v1/keybert] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['kolam renang vila', 'tenggelam kolam renang', 'tewas tenggelam kolam']}
+[2023-12-28 11:21:59,469] - [INFO] - [/ke/v1/mrake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['kepala desa cibodas dindin sukaya', 'kolam renang vila bellevue', 'kabupaten bandung barat', 'balita kakak beradik', 'orang tuanya menganggap']}
+[2023-12-28 11:22:12,764] - [INFO] - [/ke/v1/yake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal
+[2023-12-28 11:22:42,556] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 5), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 11:22:53,290] - [INFO] - [/ke/v1/keybert] - sentence: 
+Senin, 4 April 2022 14:47 WIB
+11 jam lalu
+11 jam lalu
+11 jam lalu
+1 hari lalu
+1 - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['ramadhan ibadah wajib umat islam', 'mencegah dehidrasi puasa usahakan minum', 'makan', 'sehari manusia disarankan meminum', 'dehidrasi puasa dikutip tokopedia egypt', 'matahari dehidrasi', 'cairan tubuh dicegah menjalankan ibadah', 'menerapkan aturan', 'gelas sahur gelas berbuka', 'manusia disarankan meminum air putih']}
+[2023-12-28 11:23:00,176] - [INFO] - [/ke/v1/keybert] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['tenggelam kolam renang kepala desa', 'dikonfirmasi', 'kawasan korbannya', 'haryanto koran si bandung barat', 'area vila', 'dikunci membuat anak masuk villa', 'meninggal dunia penjaga vila salat', 'kakak beradik tewas tenggelam kolam', 'cibeunying rt rw', 'cibodas kecamatan lembang kabupaten bandung']}
+[2023-12-28 11:23:59,698] - [INFO] - [/ke/v1/yake/config] - language: id, max_ngram_size: 5, deduplication_thresold: 0.9, windowSize: 1, numOfKeywords: 10
+[2023-12-28 11:24:03,345] - [INFO] - [/ke/v1/yake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal
+[2023-12-28 11:24:10,210] - [INFO] - [/ke/v1/mrake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['kepala desa cibodas dindin sukaya', 'kolam renang vila bellevue', 'kabupaten bandung barat', 'balita kakak beradik', 'orang tuanya menganggap']}
+[2023-12-28 11:24:31,900] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 5), top_n: 5, algo: mmr, diversity: 0.5
+[2023-12-28 11:24:44,035] - [INFO] - [/ke/v1/keybert] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['tenggelam kolam renang kepala desa', 'dikonfirmasi', 'kawasan korbannya', 'haryanto koran si bandung barat', 'area vila']}
+[2023-12-28 11:25:00,471] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 5, algo: mmr, diversity: 0.5
+[2023-12-28 11:25:23,639] - [INFO] - [/ke/v1/keybert] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['riri rafa tewas tenggelam kolam renang kepala desa', 'dikonfirmasi', 'area vila', 'koran si bandung barat', 'kolam renang vila']}
+[2023-12-28 11:25:41,535] - [INFO] - [/ke/v1/yake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal
+[2023-12-28 11:25:48,442] - [INFO] - [/ke/v1/yake/config] - language: id, max_ngram_size: 5, deduplication_thresold: 0.9, windowSize: 1, numOfKeywords: 5
+[2023-12-28 11:25:53,357] - [INFO] - [/ke/v1/yake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal
+[2023-12-28 11:28:47,777] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 11:29:08,091] - [INFO] - [/ke/v1/keybert] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['riri rafa tewas tenggelam kolam renang kepala desa', 'dikonfirmasi', 'area vila', 'koran si bandung barat', 'kolam renang vila', 'kecamatan lembang kabupaten bandung barat kbb tenggelam kolam renang vila', 'dindin sukaya dikonfirmasi nahas pukul balita kakak beradik', 'pintu gerbang dikunci membuat anak masuk villa', 'menganggap musibah', 'bellevue kedalamannya meter menuturkan masuk area vila orang tua korban']}
+[2023-12-28 11:29:41,003] - [INFO] - [/ke/v1/yake/config] - language: id, max_ngram_size: 5, deduplication_thresold: 0.9, windowSize: 1, numOfKeywords: 10
+[2023-12-28 11:29:44,768] - [INFO] - [/ke/v1/yake] - sentence: 
+
+Adi Haryanto, Koran SI · Senin 04 April 2022 10:32 WIB
+BANDUNG BARAT - Dua bal
+[2023-12-28 12:13:25,198] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:13:31,050] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:16:04,283] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:16:06,456] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:16:07,627] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:16:08,897] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:16:14,299] - [ERROR] - [/ke/v1/mrake/config] - ERROR: 400
+[2023-12-28 12:17:24,973] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:17:31,714] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:17:42,336] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:17:49,181] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 12:18:26,267] - [INFO] - [/ke/v1/keybert] - sentence: 
+Senin, 4 April 2022 14:47 WIB
+11 jam lalu
+11 jam lalu
+11 jam lalu
+1 hari lalu
+1 - value: {'code': 200, 'status': 'success', 'message': '', 'result': ['puasa ramadhan ibadah wajib umat islam umat muslim menahan hawa', 'mencegah dehidrasi puasa usahakan minum air putih gelas sehari manusia', 'tubuh segar', 'terbenamnya matahari dehidrasi kekurangan cairan tubuh dicegah menjalankan ibadah', 'hawa nafsu makan minum', 'muslim menahan hawa nafsu makan minum terbit fajar terbenamnya matahari', 'dikutip tokopedia egypt', 'dehidrasi kekurangan', 'siang menghindari', 'menjalankan ibadah']}
+[2023-12-28 12:24:12,095] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 12:24:17,149] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 12:26:21,390] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:26:25,114] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 12:26:30,833] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5
+[2023-12-28 12:27:58,019] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: normal
+[2023-12-28 12:28:11,364] - [INFO] - [/ke/v1/keybert/config] - n_gram_range: (1, 10), top_n: 10, algo: mmr, diversity: 0.5

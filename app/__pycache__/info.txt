@@ -1,0 +1,3 @@
+Keterangan :
+Masing2 method memiliki API sendiri
+Preprocessing tidak sama 1 dengan yang lain

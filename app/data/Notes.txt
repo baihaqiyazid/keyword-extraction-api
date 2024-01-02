@@ -1,0 +1,4 @@
+Project Keyword Extractor ini sudah dibuat berdasarkan RAKE dari https://github.com/vgrabovets/multi_rake
+Silakan pelajari metode yang digunakan dan cara penggunaannya.
+Coba jalankan dan lakukan tes menggunakan sample yang disediakan.
+Lalu buatkan resume dari hasil proses nya apakah sudah berhasil bisa mengambil topik/keyword yang sesuai atau belum
